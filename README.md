@@ -1,1 +1,1 @@
-# Livro: Estudo Dirigido de Microsoft Visual C#® Express 2013
+# Livro: Estudo Dirigido de MS Visual C#® Express 2013
