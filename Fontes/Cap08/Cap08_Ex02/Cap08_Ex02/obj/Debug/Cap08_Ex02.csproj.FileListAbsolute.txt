@@ -1,0 +1,8 @@
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex02\Cap08_Ex02\bin\Debug\Cap08_Ex02.exe.config
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex02\Cap08_Ex02\bin\Debug\Cap08_Ex02.exe
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex02\Cap08_Ex02\bin\Debug\Cap08_Ex02.pdb
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex02\Cap08_Ex02\obj\Debug\Cap08_Ex02.Form1.resources
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex02\Cap08_Ex02\obj\Debug\Cap08_Ex02.Properties.Resources.resources
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex02\Cap08_Ex02\obj\Debug\Cap08_Ex02.csproj.GenerateResource.Cache
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex02\Cap08_Ex02\obj\Debug\Cap08_Ex02.exe
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex02\Cap08_Ex02\obj\Debug\Cap08_Ex02.pdb

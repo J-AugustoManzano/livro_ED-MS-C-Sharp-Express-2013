@@ -1,0 +1,9 @@
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex03\Cap08_Ex03\bin\Debug\Cap08_Ex03.exe.config
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex03\Cap08_Ex03\bin\Debug\Cap08_Ex03.exe
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex03\Cap08_Ex03\bin\Debug\Cap08_Ex03.pdb
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex03\Cap08_Ex03\obj\Debug\Cap08_Ex03.csprojResolveAssemblyReference.cache
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex03\Cap08_Ex03\obj\Debug\Cap08_Ex03.Form1.resources
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex03\Cap08_Ex03\obj\Debug\Cap08_Ex03.Properties.Resources.resources
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex03\Cap08_Ex03\obj\Debug\Cap08_Ex03.csproj.GenerateResource.Cache
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex03\Cap08_Ex03\obj\Debug\Cap08_Ex03.exe
+c:\users\augusto\documents\visual studio 2013\Projects\Cap08_Ex03\Cap08_Ex03\obj\Debug\Cap08_Ex03.pdb
