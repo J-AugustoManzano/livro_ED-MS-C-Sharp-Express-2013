@@ -1,0 +1,6 @@
+c:\users\augusto\documents\visual studio 2013\Projects\Cap07_Ex01\Cap07_Ex01\bin\Debug\Cap07_Ex01.exe.config
+c:\users\augusto\documents\visual studio 2013\Projects\Cap07_Ex01\Cap07_Ex01\obj\Debug\Cap07_Ex01.csprojResolveAssemblyReference.cache
+c:\users\augusto\documents\visual studio 2013\Projects\Cap07_Ex01\Cap07_Ex01\bin\Debug\Cap07_Ex01.exe
+c:\users\augusto\documents\visual studio 2013\Projects\Cap07_Ex01\Cap07_Ex01\bin\Debug\Cap07_Ex01.pdb
+c:\users\augusto\documents\visual studio 2013\Projects\Cap07_Ex01\Cap07_Ex01\obj\Debug\Cap07_Ex01.exe
+c:\users\augusto\documents\visual studio 2013\Projects\Cap07_Ex01\Cap07_Ex01\obj\Debug\Cap07_Ex01.pdb
