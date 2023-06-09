@@ -1,0 +1,5 @@
+c:\users\augusto\documents\visual studio 2013\Projects\Cap03_Ex12\Cap03_Ex12\bin\Debug\Cap03_Ex12.exe.config
+c:\users\augusto\documents\visual studio 2013\Projects\Cap03_Ex12\Cap03_Ex12\bin\Debug\Cap03_Ex12.exe
+c:\users\augusto\documents\visual studio 2013\Projects\Cap03_Ex12\Cap03_Ex12\bin\Debug\Cap03_Ex12.pdb
+c:\users\augusto\documents\visual studio 2013\Projects\Cap03_Ex12\Cap03_Ex12\obj\Debug\Cap03_Ex12.exe
+c:\users\augusto\documents\visual studio 2013\Projects\Cap03_Ex12\Cap03_Ex12\obj\Debug\Cap03_Ex12.pdb
