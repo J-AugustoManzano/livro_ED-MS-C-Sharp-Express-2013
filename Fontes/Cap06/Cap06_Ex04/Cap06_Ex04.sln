@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap06_Ex04", "Cap06_Ex04\Cap06_Ex04.csproj", "{2580E097-B39A-4DBA-B789-21B76D4E1ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2580E097-B39A-4DBA-B789-21B76D4E1ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2580E097-B39A-4DBA-B789-21B76D4E1ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2580E097-B39A-4DBA-B789-21B76D4E1ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2580E097-B39A-4DBA-B789-21B76D4E1ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
